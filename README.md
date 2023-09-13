@@ -17,3 +17,7 @@ E: Rotate piece
 W: Hold piece
 
 R: Restart game
+
+![Python Progress - Tetris 1-I1](https://github.com/Hivvery/Tetris/assets/130877981/3233bdf0-a16e-4e6f-ba70-ea518e35f55d)
+
+https://github.com/Hivvery/Tetris/assets/130877981/009dcb16-bef1-4752-bab7-262d8dde3dff
