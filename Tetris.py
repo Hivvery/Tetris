@@ -308,6 +308,7 @@ def main():
             #X: Drop piece
             #E: Rotate piece
             #W: Hold piece
+            #R: Restart game
             if event.type == pygame.KEYDOWN:
                 if Variables["game"]:
                     if Variables["cooldown_fall"] != 1:
