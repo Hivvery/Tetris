@@ -5,9 +5,15 @@ This is a recreation of the popular computer game Tetris by Alexey Pajitnov. Dro
 ## Controls
 
 A: Move piece left
+
 D: Move piece right
+
 S: Move piece down
+
 X: Drop piece
+
 E: Rotate piece
+
 W: Hold piece
+
 R: Restart game
